@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @abhirup-yadav
-- 👀 I’m interested in coding
+- 👋 Hi, I’m Abhirup Yadav
+- 👀 I’m interested in computer science
 - 🌱 I’m currently studying CSE
 - 💞️ Gautam Buddha University Greater Noida 👨‍🎓
 - 📫 abhirupyadav007@gmail.com
